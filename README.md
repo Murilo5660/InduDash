@@ -102,9 +102,6 @@ cd InduDash
 ### 3. Instale as dependências
 
 ```bash
-npm init -y
-```
-```bash
 npm install express
 ```
 
