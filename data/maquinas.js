@@ -299,7 +299,7 @@ const maquinas = [
 {
     id: "M10",
 
-    maquina: "GUILHOTINA-01",
+    maquina: "SERRA-02",
 
     setor: "COR",
 
