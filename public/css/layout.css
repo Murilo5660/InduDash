@@ -50,10 +50,10 @@
 .card.maquina {
     border-top: 3px solid #475569;
 }
-
-.card.maquina.normal { border-top-color: #22c55e; }
-.card.maquina.atencao { border-top-color: #eab308; }
-.card.maquina.critico { border-top-color: #ef4444; }
+/* Trecho alterado na seção de CARDS */
+.card.maquina.normal { border-top: 5px solid #22c55e !important; }
+.card.maquina.atencao { border-top: 5px solid #facc15 !important; }
+.card.maquina.critico { border-top: 5px solid #ef4444 !important; }
 
 .card-header {
     display: flex;
