@@ -50,8 +50,7 @@ O objetivo do projeto é otimizar o controle industrial e demonstrar, na prátic
 InduDash/
 │
 ├── backend/
-│   ├── server.js
-│   └── package.json
+│   └── server.js
 │
 ├── data/
 │   ├── alertas.js
@@ -79,7 +78,8 @@ InduDash/
 │   │   └── validacoes.js
 │   │
 │   └── index.html
-│
+├── package-lock.json
+├── package.json
 └── README.md
 ````
 
