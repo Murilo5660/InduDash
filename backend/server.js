@@ -94,7 +94,7 @@ app.listen(PORT, "0.0.0.0", () => {
     console.clear();
 
     console.log("====================================");
-    console.log("🌐 InduDash disponível");
+    console.log("🌐 InduDash disponível | Localmente em http://localhost:3000 |");
     console.log("📡 API Máquinas: /api/maquinas");
     console.log("🏭 API Setores: /api/setores");
     console.log("📊 API Status: /api/status");
