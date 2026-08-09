@@ -87,19 +87,18 @@ app.get("/api/alertas", (req, res) => {
 // Inicialização
 // ==============================
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
 
     console.clear();
 
     console.log("====================================");
-    console.log("🚀 InduDash iniciado com sucesso!");
-    console.log("🌐 Dashboard: http://localhost:3000");
-    console.log("📡 API Máquinas: http://localhost:3000/api/maquinas");
-    console.log("🏭 API Setores: http://localhost:3000/api/setores");
-    console.log("📊 API Status: http://localhost:3000/api/status");
-    console.log("🚨 API Alertas: http://localhost:3000/api/alertas");
+    console.log("🌐 InduDash disponível");
+    console.log("📡 API Máquinas: /api/maquinas");
+    console.log("🏭 API Setores: /api/setores");
+    console.log("📊 API Status: /api/status");
+    console.log("🚨 API Alertas: /api/alertas");
     console.log("====================================");
 
 });
