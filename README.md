@@ -169,6 +169,15 @@ O sistema simula um ambiente fabril onde dados são utilizados para otimizar pro
 
 ---
 
-## Licença
+## Licença — O InduDash é distribuído sob licença proprietária.
 
-© 2026 InduDash. Todos os direitos reservados.
+Todos os direitos sobre o código-fonte, estrutura, arquitetura, documentação e demais elementos desenvolvidos especificamente para o projeto são reservados aos seus respectivos titulares.
+
+A disponibilização deste repositório no GitHub destina-se à demonstração, avaliação, divulgação e apresentação do projeto e não constitui concessão de licença open source.
+
+É proibida, sem autorização expressa e por escrito do proprietário, a cópia, redistribuição, modificação, sublicenciamento, comercialização ou exploração do software ou de partes substanciais de seu código.
+
+Para consultar os termos completos de utilização, consulte o arquivo LICENSE.
+
+Copyright © 2026 Murilo Ferreira Stresser — Todos os direitos reservados.
+---
