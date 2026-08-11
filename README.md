@@ -78,6 +78,7 @@ InduDash/
 │   │   └── validacoes.js
 │   │
 │   └── index.html
+├── LICENSE
 ├── package-lock.json
 ├── package.json
 └── README.md
@@ -102,19 +103,13 @@ cd InduDash
 ### 3. Instale as dependências
 
 ```bash
-npm install express
+npm install
 ```
 
-### 4. Acesse a pasta
+### 4. Inicie o servidor
 
 ```bash
-cd backend
-```
-
-### 5. Inicie o servidor
-
-```bash
-node server.js
+npm start
 ```
 
 O servidor será iniciado na porta **3000** e o dashboard estará disponível em:
