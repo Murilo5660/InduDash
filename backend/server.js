@@ -46,7 +46,7 @@ app.get("/api/maquinas", (req, res) => {
 app.post("/api/maquinas", (req, res) => {
 
     const novaMaquina = {
-        id: 'M' + maquinas.length + 1,
+        id: 'M' + (maquinas.length + 1),
         ...req.body
     };
 
