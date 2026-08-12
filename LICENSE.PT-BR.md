@@ -1,0 +1,88 @@
+LICENÇA DE USO PROPRIETÁRIA — INDUDASH
+
+Copyright (c) 2026 Murilo Ferreira Stresser
+Todos os direitos reservados.
+
+1. Concessão de Licença
+
+A presente licença estabelece os termos de uso do software InduDash, desenvolvido e interrompido por Murilo Ferreira Stresser.
+
+O InduDash é disponibilizado sob uma licença nobre e restritiva. O direito de utilizar, modificar, distribuir, distribuir ou comercializar o software é reservado exclusivamente ao proprietário e às pessoas ou entidades expressamente autorizadas por ele, mediante autorização prévia e por escrito.
+
+Nenhuma pessoa física ou jurídica não autorizada poderá utilizar, copiar, modificar, distribuir, sublicenciar, comercializar ou disponibilizar o InduDash, total ou parcialmente, sem autorização expressa do proprietário.
+
+O InduDash poderá ser configurado, adaptado ou modificado de acordo com as necessidades específicas de cada aplicação, desde que tais alterações sejam realizadas pelo proprietário ou por colaboradores, mencionados ou parceiros devidamente autorizados.
+
+2. Limitações de Uso
+
+Sem autorização expressa e por escrito do proprietário, é proibido:
+
+Copiar ou reproduzir, total ou parcialmente, o código-fonte do InduDash; Redistribuir ou disponibilizar software a terceiros; Sublicenciar, vender, alugar ou transferir direitos de uso do software; Realizar engenharia reversa, descompilação ou desmontagem de software; Criar trabalhos derivados, versões modificadas ou produtos baseados no InduDash; Remover ou alterar avisos de direitos autorais e propriedade intelectual; Utilização do InduDash para fins comerciais ou externos sem autorização ou contrato específico.
+
+A utilização de software por terceiros deverá ocorrer exclusivamente nos limites estabelecidos pelo proprietário e, quando aplicável, por contrato ou autorização específica.
+
+3. Propriedade Intelectual
+
+Todo o código-fonte, estrutura, arquitetura, documentação, interface, elementos visuais, lógica de funcionamento e demais investimentos desenvolvidos especificamente para o InduDash mantêm protegidos os direitos de propriedade intelectual aplicáveis.
+
+A concessão de autorização de uso não implica transferência de propriedade intelectual, direitos autorais ou titularidade sobre o software.
+
+O usuário autorizado recebe apenas os direitos expressamente concedidos ao proprietário, não adquirindo qualquer direito adicional sobre o InduDash.
+
+4. Contribuições de Colaboradores
+
+Colaboradores autorizados que contribuem com código, funcionalidades, correções, melhorias ou outros componentes destinados ao InduDash deverão observar os termos definidos pelo proprietário.
+
+Sempre que juridicamente aplicáveis, os direitos patrimoniais relativos às contribuições realizadas especificamente para o InduDash serão cedidos ou licenciados ao proprietário mediante instrumento adequado, permitindo sua incorporação e utilização no projeto.
+
+As contribuições incorporadas ao InduDash poderão ser distribuídas e utilizadas de acordo com os termos desta licença.
+
+5. Suporte, Atualizações e Customizações
+
+O proprietário poderá fornecer suporte técnico, correções, melhorias e atualizações para o InduDash em suas promoções exclusivas.
+
+A disponibilização de atualizações não constitui obrigação permanente de manutenção ou suporte, salvo quando houver contrato específico estabelecendo essa obrigação.
+
+Como o InduDash é uma solução de dashboard industrial que pode ser configurada de acordo com diferentes aplicações, instalações e necessidades operacionais, determinados usuários ou clientes poderão utilizar versões com dados, configurações, indicadores, funcionalidades e fluxos de trabalho distintos.
+
+Customizações realizadas especificamente para determinado usuário, cliente ou aplicação não implicam, por si só, a concessão de direitos sobre o código-fonte ou sobre a propriedade intelectual da InduDash.
+
+A disponibilização de determinada atualização, funcionalidade ou personalização para um usuário não obriga o proprietário a disponibilizá-la a outros usuários, salvo disposição contratual em contrário.
+
+6. Rescisão
+
+Esta licença será rescindida automaticamente caso o usuário ou colaborador viole qualquer uma de suas disposições.
+
+Em caso de rescisão, o usuário deverá interromper imediatamente o uso, a reprodução, a distribuição e qualquer outra atividade não autorizada relacionada ao InduDash, sem prejuízo das medidas cabíveis previstas na legislação aplicável.
+
+A rescisão da licença não implica renúncia do proprietário aos seus direitos autorais ou demais direitos legalmente assegurados.
+
+7. Isenção de Responsabilidade
+
+O InduDash é fornecido “no estado em que se encontra” (AS IS), sem garantias de qualquer natureza, expressas ou implícitas, na extensão máxima permitida pela legislação aplicável.
+
+Não são oferecidas garantias quanto à disponibilidade contínua, ausência de erros, adequação a determinado específico, desempenho específico ou compatibilidade com ambientes, equipamentos ou sistemas de terceiros.
+
+O proprietário não será responsável por danos decorrentes do uso, indisponibilidade, alteração, configuração necessária ou utilização do software em desacordo com suas especificações ou com esta licença, ressalvadas as hipóteses em que a legislação aplicável determine o contrário.
+
+Os dados apresentados pelo InduDash podem depender de sensores, equipamentos, bancos de dados, APIs, sistemas externos ou outras fontes de informação. O proprietário não garante precisão, integridade ou disponibilidade de dados provenientes de fontes externas ao software.
+
+8. Disponibilização no GitHub
+
+A publicação do código-fonte do InduDash em repositórios públicos, incluindo o GitHub, destina-se à demonstração, avaliação, divulgação e apresentação do projeto.
+
+A disponibilização pública do código-fonte não constitui concessão de licença open source nem autorização para copiar, redistribuir, modificar, sublicenciar, comercializar ou explorar o InduDash ou partes substanciais de seu código sem autorização expressa do proprietário.
+
+A visualização, análise ou avaliação do código disponibilizado publicamente não implica transferência de direitos autorais ou de propriedade intelectual.
+
+9. Legislação Aplicável
+
+Esta licença deverá ser interpretada de acordo com a legislação brasileira aplicável, especialmente as normas relativas à proteção de programas de computador e direitos autorais.
+
+Entre as normas aplicáveis, destaca-se a Lei nº 9.609/1998 (Lei do Software), sem prejuízo de outras disposições legais pertinentes.
+
+A presente licença tem como objetivo estabelecer condições de uso e proteger os direitos relacionados ao InduDash, não incluir contratos específicos ou instrumentos jurídicos necessários para determinadas relações comerciais ou de prestação de serviços.
+
+InduDash
+Copyright © 2026 Murilo Ferreira Stresser
+Todos os direitos reservados.
