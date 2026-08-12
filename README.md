@@ -78,6 +78,7 @@ InduDash/
 │   │   └── validacoes.js
 │   │
 │   └── index.html
+├── LICENSE.PT-BR.md
 ├── LICENSE
 ├── package-lock.json
 ├── package.json
