@@ -172,7 +172,17 @@ A disponibilização deste repositório no GitHub destina-se à demonstração, 
 
 É proibida, sem autorização expressa e por escrito do proprietário, a cópia, redistribuição, modificação, sublicenciamento, comercialização ou exploração do software ou de partes substanciais de seu código.
 
-Para consultar os termos completos de utilização, consulte o arquivo LICENSE.
+Para consultar os termos completos de utilização, consulte os arquivos:
+
+<!-- Licença em Inglês -->
+<a href="LICENSE" target="_blank">
+  <img src="https://img.shields.io/badge/LICENSE-ENGLISH-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF"/>
+</a>
+
+<!-- Licença em Português -->
+<a href="LICENSE.PT-BR.md" target="_blank">
+  <img src="https://img.shields.io/badge/LICENSE-PORTUGUÊS-FFFFFF?style=for-the-badge&labelColor=FFFFFF&color=FFFFFF"/>
+</a>
 
 Copyright © 2026 Murilo Ferreira Stresser — Todos os direitos reservados.
 ---
