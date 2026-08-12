@@ -1,89 +1,94 @@
-LICENÇA DE USO PROPRIETÁRIA — INDUDASH 
+PROPRIETARY USE LICENSE — INDUDASH
 
 Copyright (c) 2026 Murilo Ferreira Stresser
-Todos os direitos reservados.
+All rights reserved.
 
-1. Concessão de Licença 
+1. Grant of License
 
-A presente licença estabelece os termos de uso do software InduDash, desenvolvido e mantido por Murilo Ferreira Stresser.
+This license establishes the terms and conditions governing the use of the InduDash software, developed and maintained by Murilo Ferreira Stresser.
 
-O InduDash é disponibilizado sob uma licença proprietária e restritiva. O direito de utilizar, modificar, adaptar, distribuir ou comercializar o software é reservado exclusivamente ao proprietário e às pessoas ou entidades expressamente autorizadas por ele, mediante autorização prévia e por escrito.
+InduDash is provided under a proprietary and restrictive license. The right to use, modify, adapt, distribute, or commercialize the software is exclusively reserved to the owner and to individuals or entities expressly authorized by the owner, subject to prior written authorization.
 
-Nenhuma pessoa física ou jurídica não autorizada poderá utilizar, copiar, modificar, distribuir, sublicenciar, comercializar ou disponibilizar o InduDash, total ou parcialmente, sem autorização expressa do proprietário.
+No unauthorized individual or legal entity may use, copy, modify, distribute, sublicense, commercialize, or otherwise make InduDash available, in whole or in part, without the express authorization of the owner.
 
-O InduDash poderá ser configurado, adaptado ou modificado de acordo com as necessidades específicas de cada aplicação, desde que tais alterações sejam realizadas pelo proprietário ou por colaboradores, prestadores ou parceiros devidamente autorizados.
+InduDash may be configured, adapted, or modified according to the specific needs of each application, provided that such changes are made by the owner or by duly authorized collaborators, contractors, or partners.
 
-2. Limitações de Uso 
+2. Restrictions on Use
 
-Sem autorização expressa e por escrito do proprietário, é proibido:
+Without the express written authorization of the owner, the following activities are prohibited:
 
-Copiar ou reproduzir, total ou parcialmente, o código-fonte do InduDash; Redistribuir ou disponibilizar o software a terceiros; Sublicenciar, vender, alugar ou transferir direitos de uso do software; Realizar engenharia reversa, descompilação ou desmontagem do software; Criar trabalhos derivados, versões modificadas ou produtos baseados no InduDash; Remover ou alterar avisos de direitos autorais e propriedade intelectual; Utilizar o InduDash para fins comerciais ou externos sem autorização ou contrato específico. 
+Copying or reproducing, in whole or in part, the InduDash source code;
+Redistributing or making the software available to third parties;
+Sublicensing, selling, leasing, or transferring rights to use the software;
+Performing reverse engineering, decompilation, or disassembly of the software;
+Creating derivative works, modified versions, or products based on InduDash;
+Removing or altering copyright and intellectual property notices;
+Using InduDash for commercial or external purposes without authorization or a specific agreement.
 
-A utilização do software por terceiros deverá ocorrer exclusivamente nos limites estabelecidos pelo proprietário e, quando aplicável, por contrato ou autorização específica.
+Third-party use of the software shall occur exclusively within the limits established by the owner and, where applicable, by a specific contract or authorization.
 
-3. Propriedade Intelectual 
+3. Intellectual Property
 
-Todo o código-fonte, estrutura, arquitetura, documentação, interface, elementos visuais, lógica de funcionamento e demais ativos desenvolvidos especificamente para o InduDash permanecem protegidos pelos direitos de propriedade intelectual aplicáveis.
+All source code, structure, architecture, documentation, interface, visual elements, operational logic, and other assets specifically developed for InduDash remain protected by applicable intellectual property rights.
 
-A concessão de autorização de uso não implica transferência de propriedade intelectual, direitos autorais ou titularidade sobre o software.
+The granting of authorization to use the software does not imply any transfer of intellectual property rights, copyrights, or ownership of the software.
 
-O usuário autorizado recebe apenas os direitos expressamente concedidos pelo proprietário, não adquirindo qualquer direito adicional sobre o InduDash.
+An authorized user receives only the rights expressly granted by the owner and does not acquire any additional rights to InduDash.
 
-4. Contribuições de Colaboradores 
+4. Contributions from Collaborators
 
-Colaboradores autorizados que contribuírem com código, funcionalidades, correções, melhorias ou outros componentes destinados ao InduDash deverão observar os termos definidos pelo proprietário.
+Authorized collaborators who contribute code, features, fixes, improvements, or other components intended for InduDash shall comply with the terms established by the owner.
 
-Sempre que juridicamente aplicável, os direitos patrimoniais relativos às contribuições realizadas especificamente para o InduDash serão cedidos ou licenciados ao proprietário mediante instrumento adequado, permitindo sua incorporação e utilização no projeto.
+Whenever legally applicable, the economic rights relating to contributions specifically made for InduDash shall be assigned or licensed to the owner through an appropriate legal instrument, allowing their incorporation into and use within the project.
 
-As contribuições incorporadas ao InduDash poderão ser distribuídas e utilizadas de acordo com os termos desta licença.
+Contributions incorporated into InduDash may be distributed and used in accordance with the terms of this license.
 
-5. Suporte, Atualizações e Customizações 
+5. Support, Updates, and Customizations
 
-O proprietário poderá fornecer suporte técnico, correções, melhorias e atualizações para o InduDash a seu exclusivo critério.
+The owner may provide technical support, fixes, improvements, and updates for InduDash at the owner's sole discretion.
 
-A disponibilização de atualizações não constitui obrigação permanente de manutenção ou suporte, salvo quando houver contrato específico estabelecendo essa obrigação.
+The provision of updates does not constitute a permanent obligation to maintain or support the software, unless a specific agreement establishes such an obligation.
 
-Como o InduDash é uma solução de dashboard industrial que pode ser configurada de acordo com diferentes aplicações, instalações e necessidades operacionais, determinados usuários ou clientes poderão utilizar versões com dados, configurações, indicadores, funcionalidades e fluxos de trabalho distintos.
+As InduDash is an industrial dashboard solution that may be configured according to different applications, installations, and operational requirements, certain users or clients may use versions with different data, configurations, indicators, features, and workflows.
 
-Customizações realizadas especificamente para determinado usuário, cliente ou aplicação não implicam, por si só, a concessão de direitos sobre o código-fonte ou sobre a propriedade intelectual do InduDash.
+Customizations specifically developed for a particular user, client, or application do not, by themselves, grant any rights to the source code or intellectual property of InduDash.
 
-A disponibilização de determinada atualização, funcionalidade ou customização para um usuário não obriga o proprietário a disponibilizá-la a outros usuários, salvo disposição contratual em contrário.
+The provision of a particular update, feature, or customization to one user does not obligate the owner to make it available to other users, unless otherwise provided by contract.
 
-6. Rescisão 
+6. Termination
 
-Esta licença será automaticamente rescindida caso o usuário ou colaborador viole qualquer uma de suas disposições.
+This license shall automatically terminate if the user or collaborator violates any of its provisions.
 
-Em caso de rescisão, o usuário deverá interromper imediatamente o uso, a reprodução, a distribuição e qualquer outra atividade não autorizada relacionada ao InduDash, sem prejuízo das medidas cabíveis previstas na legislação aplicável.
+Upon termination, the user shall immediately cease all use, reproduction, distribution, and any other unauthorized activity related to InduDash, without prejudice to any applicable legal remedies.
 
-A rescisão da licença não implica renúncia do proprietário aos seus direitos autorais ou demais direitos legalmente assegurados.
+Termination of this license does not constitute a waiver by the owner of any copyrights or other rights legally protected or granted to the owner.
 
-7. Isenção de Responsabilidade 
+7. Disclaimer of Liability
 
-O InduDash é fornecido “no estado em que se encontra” (AS IS), sem garantias de qualquer natureza, expressas ou implícitas, na máxima extensão permitida pela legislação aplicável.
+InduDash is provided “AS IS”, without warranties of any kind, express or implied, to the maximum extent permitted by applicable law.
 
-Não são oferecidas garantias quanto à disponibilidade contínua, ausência de erros, adequação a determinada finalidade, desempenho específico ou compatibilidade com ambientes, equipamentos ou sistemas de terceiros.
+No warranties are provided regarding continuous availability, freedom from errors, fitness for a particular purpose, specific performance, or compatibility with third-party environments, equipment, or systems.
 
-O proprietário não será responsável por danos decorrentes do uso, indisponibilidade, alteração, configuração inadequada ou utilização do software em desacordo com suas especificações ou com esta licença, ressalvadas as hipóteses em que a legislação aplicável determine o contrário.
+The owner shall not be liable for damages arising from the use, unavailability, alteration, improper configuration, or use of the software in violation of its specifications or this license, except where applicable law provides otherwise.
 
-Os dados apresentados pelo InduDash podem depender de sensores, equipamentos, bancos de dados, APIs, sistemas externos ou outras fontes de informação. O proprietário não garante a precisão, integridade ou disponibilidade de dados provenientes de fontes externas ao software.
+The data presented by InduDash may depend on sensors, equipment, databases, APIs, external systems, or other information sources. The owner does not guarantee the accuracy, integrity, or availability of data originating from sources external to the software.
 
-8. Disponibilização no GitHub 
+8. Availability on GitHub
 
-A publicação do código-fonte do InduDash em repositórios públicos, incluindo o GitHub, destina-se à demonstração, avaliação, divulgação e apresentação do projeto.
+The publication of the InduDash source code in public repositories, including GitHub, is intended for demonstration, evaluation, disclosure, and presentation of the project.
 
-A disponibilização pública do código-fonte não constitui concessão de licença open source nem autorização para copiar, redistribuir, modificar, sublicenciar, comercializar ou explorar o InduDash ou partes substanciais de seu código sem autorização expressa do proprietário.
+The public availability of the source code does not constitute the granting of an open-source license or authorization to copy, redistribute, modify, sublicense, commercialize, or otherwise exploit InduDash or substantial portions of its code without the express authorization of the owner.
 
-A visualização, análise ou avaliação do código disponibilizado publicamente não implica transferência de direitos autorais ou de propriedade intelectual.
+Viewing, analyzing, or evaluating the publicly available code does not imply any transfer of copyrights or intellectual property rights.
 
-9. Legislação Aplicável 
+9. Applicable Law
 
-Esta licença deverá ser interpretada de acordo com a legislação brasileira aplicável, especialmente as normas relativas à proteção de programas de computador e direitos autorais.
+This license shall be interpreted in accordance with applicable Brazilian law, particularly the laws governing the protection of computer programs and copyrights.
 
-Entre as normas aplicáveis, destaca-se a Lei nº 9.609/1998 (Lei do Software), sem prejuízo de outras disposições legais pertinentes.
+Among the applicable laws, special attention is given to Law No. 9,609/1998 (Software Law), without prejudice to any other applicable legal provisions.
 
-A presente licença tem como objetivo estabelecer condições de uso e proteger os direitos relacionados ao InduDash, não substituindo contratos específicos ou instrumentos jurídicos necessários para determinadas relações comerciais ou de prestação de serviços.
+This license is intended to establish conditions for the use of InduDash and to protect the rights associated with the software. It does not replace specific contracts or legal instruments required for particular commercial relationships or service agreements.
 
 InduDash
 Copyright © 2026 Murilo Ferreira Stresser
-Todos os direitos reservados.
-
+All rights reserved.
